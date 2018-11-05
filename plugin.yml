@@ -1,0 +1,12 @@
+name: AntiFull
+main: Anti\Full
+version: 1.0.9
+api: [1.10.0]
+load: STARTUP
+author: XackiFonGirs
+date: 24 октября 2015 в 12:34
+description: Ограничение креатива для игроков
+permissions:
+    limitedcreative.permission.creative:
+        default: true
+        description: Включает ограничени креатива при его включении
